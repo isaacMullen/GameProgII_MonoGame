@@ -24,3 +24,6 @@ C:\Isaacs Programming Projects\GameProgII_MonoGame\GameProgII_MonoGame\obj\Debug
 C:\Isaacs Programming Projects\GameProgII_MonoGame\GameProgII_MonoGame\obj\Debug\net6.0\GameProgII_MonoGame.genruntimeconfig.cache
 C:\Isaacs Programming Projects\GameProgII_MonoGame\GameProgII_MonoGame\obj\Debug\net6.0\ref\GameProgII_MonoGame.dll
 C:\Isaacs Programming Projects\GameProgII_MonoGame\GameProgII_MonoGame\bin\Debug\net6.0\Content\Sprites\tile_0078.xnb
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\GameProgII_MonoGame\GameProgII_MonoGame\obj\Debug\net6.0\GameProgII_MonoGame.dll
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\GameProgII_MonoGame\GameProgII_MonoGame\obj\Debug\net6.0\refint\GameProgII_MonoGame.dll
+E:\class\CLASS PROJECTS\Non-Unity\In Progress\GameProgII_MonoGame\GameProgII_MonoGame\obj\Debug\net6.0\GameProgII_MonoGame.pdb
