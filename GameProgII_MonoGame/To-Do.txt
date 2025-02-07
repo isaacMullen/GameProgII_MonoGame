@@ -1,0 +1,8 @@
+Fix the sprites bounding box. (i scaled the sprite in Draw to see him better, now the bounding box which is based off the texture is
+too small for the size of the sprite that is drawn)
+	- find new sprite
+	- recalculate the size of the bounding box
+
+add a score system
+	- track the mid point of each pipe
+	- if player passes the mid point => increment score

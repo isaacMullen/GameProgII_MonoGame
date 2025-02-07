@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameProgII_MonoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd0a826caca11252297ff3880b44913c23b26d8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d5bc83e4786f331eafce13bc33eff65fc54458")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameProgII_MonoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameProgII_MonoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
